@@ -1,9 +1,5 @@
 ## Welcome to my website
 ### My name is Sagnik Chowdhury
 
-<body>You can find me on @chowdy71 at Instagram</body>
-
-<body>Three things that I am proud of doing in high school are:
--Volunteering at two different hospitals
--Restarting the chess program at the EBPL
--Doing cancer research at Kean University </body>
+<body>You can find me on @chowdy71 at Instagram</body>. Three things that I am proud of doing in high school are:
+volunteering at two different hospitals, restarting the chess program at the EBPL, and doing cancer research at Kean University.
